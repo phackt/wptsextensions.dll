@@ -18,4 +18,6 @@ const TCHAR script[] = TEXT("C:\\Python27\\script.bat"):
 powershell -Command "[System.Environment]::GetEnvironmentVariable('PATH','Machine')"
 ```
   
-- Reboot
+- Reboot  
+  
+https://github.com/itm4n/PrivescCheck
