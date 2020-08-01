@@ -14,3 +14,5 @@ const TCHAR script[] = TEXT("C:\\Python27\\script.bat"):
 ```
   
 - Drop the DLL and script.bat in your writable directory (from the machine PATH)
+  
+- Reboot
