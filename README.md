@@ -20,4 +20,9 @@ powershell -Command "[System.Environment]::GetEnvironmentVariable('PATH','Machin
   
 - Reboot  
   
-Tool to use during your privesc: [https://github.com/itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck)
+Tool to use during your privesc:  
+[https://github.com/itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck)  
+  
+Articles:  
+[https://itm4n.github.io/windows-dll-hijacking-clarified/](https://itm4n.github.io/windows-dll-hijacking-clarified/)  
+[http://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerservice.html](http://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerservice.html)
