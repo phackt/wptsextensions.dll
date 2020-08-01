@@ -20,4 +20,4 @@ powershell -Command "[System.Environment]::GetEnvironmentVariable('PATH','Machin
   
 - Reboot  
   
-https://github.com/itm4n/PrivescCheck
+Tool to use during your privesc: [https://github.com/itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck)
