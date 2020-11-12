@@ -5,6 +5,9 @@
 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars64.bat"
 ```
   
+- Update the ```TCHAR script[]``` variable with a writable SYSTEM path where the DLL will be looked for.
+  Check this [tool](https://github.com/itm4n/PrivescCheck) to find ones.
+  
 - Go inside your source dir and run (BUILD MANUALLY to avoid unwanted dependencies):  
 ```
 cl /LD /MT /EHa dllmain.cpp /Fe:WptsExtensions.dll
