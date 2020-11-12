@@ -6,7 +6,10 @@
 ```
   
 - Update the ```TCHAR script[]``` variable with a writable SYSTEM path where the DLL will be looked for.  
-  Check this [tool](https://github.com/itm4n/PrivescCheck) to find ones.
+  Check this [tool](https://github.com/itm4n/PrivescCheck) to find ones.  
+    
+  You can also list this environment variable thanks to:  
+  ```powershell -c "[System.Environment]::GetEnvironmentVariable('PATH','Machine')"```.
   
 - Go inside your source dir and run (BUILD MANUALLY to avoid unwanted dependencies):  
 ```
