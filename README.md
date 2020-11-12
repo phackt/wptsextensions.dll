@@ -2,7 +2,7 @@
   
 - Load x64 visual studio environnement variables:  
 ```
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars64.bat
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars64.bat"
 ```
   
 - Go inside your source dir and run (BUILD MANUALLY to avoid unwanted dependencies):  
