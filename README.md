@@ -1,4 +1,4 @@
-## WptsExtensions.dll for exploiting DLL Hijacking (task scheduler)  
+## WptsExtensions.dll for exploiting DLL Hijacking (Schedule - Task Scheduler)  
   
 - Load x64 visual studio environnement variables:  
 ```
